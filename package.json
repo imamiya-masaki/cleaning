@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "dotenv": "^16.0.1",
+    "nuxt": "3.0.0-rc.3"
+  },
+  "dependencies": {
+    "mongoose": "^6.3.3"
+  }
+}
