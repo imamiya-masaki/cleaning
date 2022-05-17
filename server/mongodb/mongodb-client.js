@@ -36,4 +36,5 @@ if (process.env.NODE_ENV === "development") {
   //   res.db().collection('list').find({});
   // })
 // const test = clientPromise.collection("list").find();
+
 export {clientPromise};
